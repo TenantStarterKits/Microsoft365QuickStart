@@ -38,7 +38,6 @@ Microsoft Bookings | disabled
 Office 365 Groups | disabled guests
 Self Service Trials | disabled
 Self Service Purchases in PowerApps and PowerAutomate | disabled
-SharePoint | disabled self service site creation
 SharePoint Sharing | limited to organization
 SharePoint UserVoice | disabled
 Teams | disabled guest access
@@ -50,7 +49,8 @@ These settings should be set manually within the Microsoft 365 Admin Center
 Microsoft 365 Admin Center Area | Url | Settings
 -----|-----|-----
 MyAnalytics | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/MyAnalytics> | All settings should be disabled
-‎Office‎ software download settings | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/SoftwareDownload> |All settings should be disabled
+‎Office‎ software download settings | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/SoftwareDownload> | All settings should be disabled
+SharePoint Site Creation and Timezone | <https://***REMOVED***-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/settings> | Disable Site Creation and set the most appropriate timezone
 Sway | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Sway> | All settings should be disabled
 User owned apps and services | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Store> | All settings should be disabled
 Whiteboard | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Whiteboard> | All settings should be disabled
