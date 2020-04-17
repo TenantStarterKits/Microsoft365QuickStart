@@ -53,6 +53,7 @@ MyAnalytics | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:
 ‎Office‎ software download settings | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/SoftwareDownload> |All settings should be disabled
 Sway | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Sway> | All settings should be disabled
 User owned apps and services | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Store> | All settings should be disabled
+Whiteboard | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Whiteboard> | All settings should be disabled
 
 ### Custom Settings within Azure Active Directory
 
