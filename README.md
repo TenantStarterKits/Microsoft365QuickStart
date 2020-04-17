@@ -36,6 +36,7 @@ Calendar sharing | disabled
 Connecotrs in PowerApps and PowerAutomate | limited to Microsoft 365 connectors
 Microsoft Bookings | disabled
 Office 365 Groups | disabled guests
+OneDrive | Storage limit to 1 GB
 Self Service Trials | disabled
 Self Service Purchases in PowerApps and PowerAutomate | disabled
 SharePoint Sharing | limited to organization
