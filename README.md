@@ -1,4 +1,4 @@
-# Microsoft365QuickStart
+# Microsoft 365 Quick Start Template
 
 This starter kit provides basic and very restrictive settings for a new Microsoft 365 tenant.
 
@@ -10,13 +10,15 @@ This starter kit provides basic and very restrictive settings for a new Microsof
 4. Create a credential object
 5. Call the Set-Microsoft365QuickStart cmdlet
 
+Please make sure to have logged into <https://admin.powerapps.com/environments> prior to using this module.
+
 The following steps need to be perfomed to start the configuration:
 
 ```powershell
 Install-Module -Name Microsoft365DSC -RequiredVersion 1.0.4.39
 Import-Module <Path to Microsoft365QuickStart.psd1>
 
-$credentials = Get-Credentials # This will promot for your global admin credentials
+$credentials = Get-Credential # This will promot for your global admin credentials
 
 Set-Microsoft365QuickStartTemplate -GolbalAdminAccount $credentials -Verbose
 ```
