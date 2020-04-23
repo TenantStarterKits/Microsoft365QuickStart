@@ -53,7 +53,7 @@ MyAnalytics | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:
 ‎Office‎ software download settings | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/SoftwareDownload> | All settings should be disabled
 SharePoint Site Creation and Timezone | <https://TENANTNAME-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/settings> | Set the most appropriate timezone
 Sway | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Sway> | All settings should be disabled
-Teams | <https://admin.teams.microsoft.com/policies/app-permission/edit/R2xvYmFs> | Block thrid party apps
+Teams | <https://admin.teams.microsoft.com/policies/app-permission/edit/R2xvYmFs> | Block third party apps
 User owned apps and services | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Store> | All settings should be disabled
 Whiteboard | <https://admin.microsoft.com/Adminportal/Home#/Settings/Services/:/Settings/L1/Whiteboard> | All settings should be disabled
 
