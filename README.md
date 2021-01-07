@@ -33,7 +33,7 @@ Microsoft 365 Area | Settings
 Apps for Office | disabled
 Azure B2B Preview for SharePoint and OneDrive | enabled
 Calendar sharing | disabled
-Connecotrs in PowerApps and PowerAutomate | limited to Microsoft 365 connectors
+Connectors in PowerApps and PowerAutomate | limited to Microsoft 365 connectors
 Microsoft Bookings | disabled
 Office 365 Groups | disabled guests
 OneDrive | Storage limit to 1 GB
